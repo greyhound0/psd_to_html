@@ -1,7 +1,6 @@
 import React from "react";
-import Navbar from "../navbar/Index";
+
 import "./style.css";
-import new_head from "../../assignment_images/new_head.png";
 
 function Head() {
   return (
