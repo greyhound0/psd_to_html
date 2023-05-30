@@ -14,41 +14,15 @@ const Nav = () => {
           />
           <ul className="navbar-nav">
             <li className="nav-item">
-              <a className="nav-link" id="home" href="#">
-                HOME
-                <hr></hr>
-              </a>
+              HOME
+              <hr></hr>
             </li>
-            <li className="nav-item">
-              <a className="nav-link" href="#">
-                ABOUT US
-              </a>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link" href="#">
-                SERCIVES
-              </a>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link" href="#">
-                RESOURCES
-              </a>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link" href="#">
-                MANAGEMENT TEAM
-              </a>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link" href="#">
-                CAREERS
-              </a>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link" href="#">
-                CONTACT
-              </a>
-            </li>
+            <li className="nav-item">ABOUT US</li>
+            <li className="nav-item"></li>
+            <li className="nav-item">RESOURCES</li>
+            <li className="nav-item">MANAGEMENT TEAM</li>
+            <li className="nav-item">CAREERS</li>
+            <li className="nav-item">CONTACT</li>
           </ul>
         </div>
       </div>
