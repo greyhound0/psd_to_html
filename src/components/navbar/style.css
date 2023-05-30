@@ -1,0 +1,12 @@
+.navbar-nav {
+  gap: 40px;
+  /* justify-content: center; */
+}
+#home {
+  color: rgb(255, 94, 0);
+}
+
+#navbarNav {
+  display: flex;
+  justify-content: space-evenly;
+}
